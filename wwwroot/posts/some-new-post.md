@@ -6,7 +6,7 @@ image: /wwwroot/images/captura-de-ecrã-2-.png
 tags:
   - "0"
   - "4"
-slug: some-new-post
+slug: some-new-post2
 ---
 Some pretty neat **text!**
 
