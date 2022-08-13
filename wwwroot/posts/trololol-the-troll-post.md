@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: TROLOLOL THE TROLL POST
+title: TROLOLOL THE TROLL
 date: 2021-12-04T19:56:18.638Z
 image: /wwwroot/images/captura-de-ecrã-2-.png
 text: |-
